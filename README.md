@@ -11,7 +11,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## About
 
-This is my first professional portfolio website, now live on [Netlify](https://your-netlify-link-here.com). It serves as a platform to display my work, highlight my skills, and provide a way for potential collaborators or employers to get in touch.
+This is my first professional portfolio website, now live on [Netlify](https://obviously-its-under-construction.netlify.app). It serves as a platform to display my work, highlight my skills, and provide a way for potential collaborators or employers to get in touch.
 
 ## Installation
 
